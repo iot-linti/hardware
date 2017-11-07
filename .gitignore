@@ -1,0 +1,11 @@
+# https://gist.github.com/masahirosuzuka/6a333a0305e6903686c9
+# temp files
+*.bak
+*.bck
+*.kicad_pcb-bak
+*-cache.lib
+# *-rescue.lib
+ftp-lib-table
+
+# for external tools
+*.dsn
